@@ -28,7 +28,7 @@ app.layout = html.Div(style={'backgroundColor': colors['background']}, children=
         }
     ),
 
-    html.Div(children='Carl: Listens to artists much more obsessively than Rosie. App is work in progress, please help me with the axis!', style={
+    html.Div(children='Carl: Listens to artists much more obsessively than Rosie. App is work in progress!', style={
         'textAlign': 'center',
         'color': colors['text']
     }),
